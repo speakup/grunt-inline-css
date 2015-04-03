@@ -1,3 +1,5 @@
+**Note**: This is a copy of [a fork](https://github.com/NotBobTheBuilder/grunt-inline-css) that uses an up to date version of Juice and has some bugfixes. We are copying it to our SpeakUp organization so as not to lose it should the original repo go down. --Alex Turpin
+
 # grunt-inline-css
 
 > Takes an html file with css link and turns inline. Great for emails. It leverages the amazing [juice](https://github.com/LearnBoost/juice) library.
